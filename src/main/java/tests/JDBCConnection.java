@@ -1,4 +1,4 @@
-package databaseConnect;
+package tests;
 
 import java.sql.*;
 
